@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/tulip" name="DerpFest-Devices/device_xiaomi_tulip.git" remote="github" revision="derp" />
+ <project path="kernel/xiaomi/tulip" name="okta-10/mystic_kernel_sdm660-4.4.git" remote="github" revision="Mystic-4.4" />
+ 
+</manifest>
